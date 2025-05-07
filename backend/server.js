@@ -35,7 +35,7 @@ app.prepare().then(async () => {
 
   server.use(
     cors({
-      origin: ['http://localhost:3000', 'http://localhost:3001', 'https://multimart-supplier.vercel.app'],
+      origin: ['http://localhost:3000', 'http://localhost:3001', 'https://multimart-supplier.vercel.app/'],
       methods: ['GET', 'POST', 'PUT', 'DELETE'],
       credentials: true,
     })
