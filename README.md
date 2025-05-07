@@ -54,10 +54,6 @@ Within the download you'll find the following directories and files:
 		└── dashboard
 ```
 
-## Resources
-
-- More freebies like this one: https://devias.io
-
 ## Reporting Issues:
 
 - [Github Issues Page](https://github.com/zeeshandev15/supplier-Pannel.git)
